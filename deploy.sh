@@ -1,6 +1,6 @@
 #!usr/bin/env bash
 
-set -env
+set -e
 
 npm run build
 
